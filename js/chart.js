@@ -10,11 +10,11 @@ var chart;
 				value: 340
 			},
 			{
-				country: "Photoshop",
+				country: "Laravel",
 				value: 230
 			},
 			{
-				country: "PHP",
+				country: "Codeigniter",
 				value: 250
 			},
 			{
@@ -22,7 +22,11 @@ var chart;
 				value: 150
 			},
 			{
-				country: "CSS3",
+				country: "MSQl",
+				value: 200
+			},
+			{
+				country: "LINUX",
 				value: 200
 			}
 		];

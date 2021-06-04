@@ -3,7 +3,7 @@ var chart;
 
 		var chartData = [{
 				country: "Jquery",
-				value: 200
+				value: 250
 			},
 			{
 				country: "HTML5",
@@ -11,23 +11,23 @@ var chart;
 			},
 			{
 				country: "Laravel",
-				value: 230
+				value: 315
 			},
 			{
 				country: "Codeigniter",
-				value: 250
+				value: 290
 			},
 			{
 				country: "Bootstrap",
-				value: 150
+				value: 335
 			},
 			{
 				country: "MSQl",
-				value: 200
+				value: 280
 			},
 			{
 				country: "LINUX",
-				value: 200
+				value: 280
 			}
 		];
 
